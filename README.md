@@ -71,6 +71,12 @@ I love experimenting with new technologies and contributing to projects that hel
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="50" height="50" style="margin: 10px;" />
   </a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <img style="margin: 10px; width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" />
+</a>  
+<a href="https://www.adobe.com/products/premiere.html" target="_blank">
+  <img style="margin: 10px; width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere Pro" />
+</a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="Microsoft SQL Server" style="margin: 10px;" />
   </a>
