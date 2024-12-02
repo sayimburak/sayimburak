@@ -95,18 +95,35 @@ I love experimenting with new technologies and contributing to projects that hel
 
 <div align="center">
   <a href="https://github.com/sayimburak" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;" />
   </a>
-  <a href="https://twitter.com/sayimburak" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin: 5px;" />
+  <a href="https://stackoverflow.com/users/26428586/sayimburak" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&style=for-the-badge" alt="StackOverflow" style="margin: 5px;" />
   </a>
   <a href="https://linkedin.com/in/sayimburak" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;" />
   </a>
   <a href="https://instagram.com/sayimburak" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 5px;" />
-  </a>  
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 5px;" />
+  </a>
+  <a href="https://x.com/sayimburak" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" style="margin: 5px;" />
+  </a>
+  <a href="https://facebook.com/sayimburak" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin: 5px;" />
+  </a>
+    <a href="https://www.hackerrank.com/sayimburak" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" style="margin: 5px;" />
+  </a>
+  <a href="https://bsky.app/profile/sayimburak.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/BlueSky-005FF9.svg?&style=for-the-badge&logo=bluesky&logoColor=white" alt="BlueSky" style="margin: 5px;" />
+  </a>
+  <a href="https://www.kaggle.com/sayimburak" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="margin: 5px;" />
+  </a>
 </div>
+
+
 
 ---
 
