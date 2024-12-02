@@ -29,19 +29,19 @@ I love experimenting with new technologies and contributing to projects that hel
 #### 💻 Technical Skills  
 <div align="center">  
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50" height="50" style="margin: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="60" height="60" style="margin: 10px;" />
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50" style="margin: 10px;" />
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="50" height="50" style="margin: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="70" height="70" style="margin: 10px;" />
   </a>
   <a href="https://www.php.net/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50" height="50" style="margin: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="60" height="60" style="margin: 10px;" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="50" height="50" style="margin: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="61" height="61" style="margin: 10px;" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5" width="50" height="50" style="margin: 10px;" />
@@ -60,7 +60,7 @@ I love experimenting with new technologies and contributing to projects that hel
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50" style="margin: 10px;" />
   </a>
   <a href="https://www.microsoft.com/microsoft-365" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/microsoft-office-2019.png" alt="Microsoft Office" style="margin: 10px;" />
+    <img src="https://img.icons8.com/fluency/48/microsoft-office-2019.png" alt="Microsoft Office" width="55" height="55" style="margin: 10px;" />
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" width="50" height="50" style="margin: 10px;" />
@@ -72,10 +72,10 @@ I love experimenting with new technologies and contributing to projects that hel
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="50" height="50" style="margin: 10px;" />
   </a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-  <img style="margin: 10px; width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" style="margin: 10px; width: 50px; height: 50px;" />
 </a>  
 <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-  <img style="margin: 10px; width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere Pro" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere Pro" style="margin: 10px; width: 50px; height: 50px;" />
 </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="Microsoft SQL Server" style="margin: 10px;" />
@@ -122,8 +122,6 @@ I love experimenting with new technologies and contributing to projects that hel
     <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="margin: 5px;" />
   </a>
 </div>
-
-
 
 ---
 
