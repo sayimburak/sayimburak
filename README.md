@@ -2,11 +2,13 @@
   <img src="https://trisya.com/myimg/child/soft_devlop.gif" alt="Hello World Animation" width="100%" />
 </div>
 
-<h1 align="center">Hello 👋 I'm Burak!</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello+%F0%9F%91%8B+I'm+Burak!" alt="Typing SVG" /></a></h1>
 
 🎓 I'm a Computer Programming student at Kırklareli University.
 
 🌱 I’m currently learning **JavaScript!**
+
+🐧 I use **Arch**, btw... (with Hyprland)
 
 📫 How to [*reach*](https://github.com/sayimburak#-connect-with-me) me?
 
@@ -65,6 +67,9 @@ I love experimenting with new technologies and contributing to projects that hel
   <a href="https://www.microsoft.com/microsoft-365" target="_blank">
     <img src="https://img.icons8.com/fluency/48/microsoft-office-2019.png" alt="Microsoft Office" height="55" />
   </a>
+  <a href="https://neovim.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" height="50" />
+  </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" height="50" />
   </a>
@@ -79,13 +84,20 @@ I love experimenting with new technologies and contributing to projects that hel
   </a>  
   <a href="https://www.adobe.com/products/premiere.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere Pro" height="50" />
-  </a> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" height="50" />
+  </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="Microsoft SQL Server" height="50" />
+  </a>
+  <a href="https://archlinux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Arch Linux" height="50" />
   </a>
   <a href="https://www.kali.org/" target="_blank">
     <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" height="50" />
   </a>
+
 </div>
 
 </td>
