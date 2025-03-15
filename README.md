@@ -2,7 +2,7 @@
   <img src="https://trisya.com/myimg/child/soft_devlop.gif" alt="Hello World Animation" width="100%" />
 </div>
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello+%F0%9F%91%8B+I'm+Burak!" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://github.com/sayimburak/sayimburak"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello+%F0%9F%91%8B+I'm+Burak!" alt="Typing SVG" /></a></h1>
 
 🎓 I'm a Computer Programming student at Kırklareli University.
 
@@ -28,28 +28,28 @@ I love experimenting with new technologies and contributing to projects that hel
 ### 🛠 My Skill Set
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
+<tr>
+<td valign="top" width="50%">
 
-### ⚙️ Technical Skills
+#### ⚙️ Technical Skills
 <div align="center">
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" height="55" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" height="50" />
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="55" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="55" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="48" />
   </a>
   <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="55" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="50" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="55" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />
   </a>
   <a href="https://www.w3schools.com/html/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="55" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" />
   </a>
 </div>
 
@@ -59,49 +59,51 @@ I love experimenting with new technologies and contributing to projects that hel
 #### 🧰 Tools and Technologies
 <div align="center">
   <a href="https://visualstudio.microsoft.com/vs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 2022" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 2022" height="44" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="44" />
   </a>
   <a href="https://www.microsoft.com/microsoft-365" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/microsoft-office-2019.png" alt="Microsoft Office" height="55" />
+    <img src="https://img.icons8.com/fluency/48/microsoft-office-2019.png" alt="Microsoft Office" height="46" />
   </a>
   <a href="https://neovim.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" height="44" />
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" height="50" />
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" height="44" />
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" height="50" />
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" height="44" />
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" height="44" />
   </a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" height="44" />
   </a>  
   <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere Pro" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere Pro" height="44" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" height="44" />
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="Microsoft SQL Server" height="50" />
+    <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="Microsoft SQL Server" height="44" />
   </a>
   <a href="https://archlinux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Arch Linux" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Arch Linux" height="44" />
   </a>
   <a href="https://www.kali.org/" target="_blank">
-    <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" height="50" />
+    <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" height="44" />
   </a>
-
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="48" />
+  </a>
 </div>
 
 </td>
-  </tr>
+</tr>
 </table>
 
 ---
