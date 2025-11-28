@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://trisya.com/myimg/child/soft_devlop.gif" alt="Hello World Animation" width="100%" />
-</div>
-
 <h1 align="center"><a href="https://github.com/sayimburak/sayimburak"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello+%F0%9F%91%8B+I'm+Burak!" alt="Typing SVG" /></a></h1>
 
 🎓 I'm a Computer Programming student at Kırklareli University.
