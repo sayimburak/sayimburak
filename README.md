@@ -10,16 +10,20 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Languages,_Technologies_%26_Tools-2b2b2b?style=for-the-badge&logo=hackthebox&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Languages_%26_Technologies-2b2b2b?style=for-the-badge&logo=html5&logoColor=58a6ff" />
 
 <p align="left">
-  <a href="https://github.com/sayimburak/sayimburak?tab=readme-ov-file#-languages-and-tools">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,cs,php,py,java,bash&theme=dark" height="36" />
-    <br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,postgresql,supabase,mongodb,netlify,cloudflare,raspberrypi,arduino&theme=dark" height="36" />
-    <br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cachyos,kali,vscodium,idea,pycharm,neovim,git,obsidian,ollama,davinci,docker,ai,ps&theme=dark" height="36" />
-  </a>
+  <img id="languages" alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,cs,php,java,py,bash&theme=dark" height="36" />
+  <br>
+  <img id="technologies" alt="Technologies" src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,postgresql,mongodb,supabase,netlify,cloudflare,docker&theme=dark" height="36" />
+</p>
+
+<img src="https://img.shields.io/badge/Environment_%26_Tools-2b2b2b?style=for-the-badge&logo=linux&logoColor=58a6ff" />
+
+<p align="left">
+  <img id="environment" alt="Environment" src="https://go-skill-icons.vercel.app/api/icons?i=cachyos,hyprland,kali,raspberrypi,nvidia,arduino&theme=dark" height="36" />
+  <br>
+  <img id="tools" alt="Tools" src="https://go-skill-icons.vercel.app/api/icons?i=vscodium,neovim,obsidian,firefox,ollama,git,ai,ps,davinci&theme=dark" height="36" />
 </p>
 
 ---
